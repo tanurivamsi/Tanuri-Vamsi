@@ -1,96 +1,197 @@
-<h1 align="center">Hi 👋, I'm T.Vamsi</h1>
-<h3 align="center">Python Full Stack Developer | Content Creator</h3>
+<!-- Animated Banner -->
 
-<!-- WAVE GIF HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/hello.gif" width="100px" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Hi%20I'm%20Tanuri%20Vamsi&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanurivamsi&label=Profile%20Views&color=0e75b6&style=plastic" alt="profile views" />
-</p>
-
-<!-- ANIMATED TYPING EFFECT -->
-<p align="center">
-  <a href="https://github.com/tanurivamsi">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Python+Full+Stack+Developer;Data+Science+Enthusiast;Content+Creator+%7C+YouTuber;Always+learning+new+things&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=500&color=539BF5" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-## 🙋‍♂️ About Me
-
-I'm a passionate **Python Full Stack Developer** and fresher eager to build real-world solutions. I love turning data into insights and ideas into products. Beyond coding, I create content to share what I learn with the community.
-
-### 🎯 Fun Facts About Me
-- 🐍 I speak fluent **Python** — and I'm always exploring its AI/ML side.
-- 📊 I love turning messy data into beautiful visualizations.
-- 🎥 I create educational content on YouTube & Instagram.
-- ☕ Fueled by curiosity, coffee, and clean code.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9cf?style=for-the-badge&logo=seaborn&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 📱 Connect With Me
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tanurivamsi9393)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vamsi_t9392/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanuri-vamsi939292/)
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TanuriVams19226)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://warm-ideas-033366.framer.app/#about)
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">
+Python Full Stack Developer • Data Analyst • Content Creator
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanurivamsi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanurivamsi&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanurivamsi&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://komarev.com/ghpvc/?username=tanurivamsi&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/tanurivamsi?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/tanurivamsi?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanurivamsi&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🚀 Python Full Stack Developer
+
+📊 Data Science Enthusiast
+
+🤖 Learning AI & Machine Learning
+
+🌱 Currently Building Real-world Projects
+
+🎥 YouTube Content Creator
+
+📍 India
+
+💬 Ask me about
+
+- Python
+- Flask
+- Django
+- SQL
+- Pandas
+- NumPy
+- Machine Learning
+
+⚡ Fun Fact
+
+> I love turning coffee ☕ into code.
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
+
+</p>
+
+## Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flask,django,bootstrap"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter"/>
+
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 📊 GitHub Analytics
 
-Want to collaborate, learn together, or just say hi? Reach out to me on any platform below — I'm always happy to connect!
+<p align="center">
 
-<p align="left">
-  <a href="https://www.youtube.com/@tanurivamsi9393"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-  <a href="https://www.instagram.com/vamsi_t9392/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
-  <a href="https://www.linkedin.com/in/tanuri-vamsi939292/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://x.com/TanuriVams19226"><img src="https://img.icons8.com/color/48/000000/twitterx.png"/></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanurivamsi&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=tanurivamsi&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <i>⚡ "Code, create, and keep growing — one day at a time."</i>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanurivamsi&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanurivamsi&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tanurivamsi&theme=algolia&margin-w=10"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/tanurivamsi/tanurivamsi/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📈 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanurivamsi&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanurivamsi&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanurivamsi&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tanuri-vamsi939292/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.youtube.com/@tanurivamsi9393">
+<img width="48" src="https://img.icons8.com/color/96/youtube-play.png"/>
+</a>
+
+<a href="https://www.instagram.com/vamsi_t9392/">
+<img width="48" src="https://img.icons8.com/color/96/instagram-new.png"/>
+</a>
+
+<a href="https://x.com/TanuriVams19226">
+<img width="48" src="https://img.icons8.com/color/96/twitterx.png"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ☕ Support Me
+
+<a href="https://buymeacoffee.com/">
+
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee"/>
+
+</a>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2575fc,100:6a11cb"/>
+
 </p>
