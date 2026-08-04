@@ -423,7 +423,7 @@ I believe in **continuous learning**, **clean code**, and transforming innovativ
 
 **Repository**
 
-https://github.com/tanurivamsi/MovieMind
+https://github.com/tanurivamsi/MovieMind-Analytics
 
 </div>
 
