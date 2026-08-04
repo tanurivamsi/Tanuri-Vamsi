@@ -474,11 +474,11 @@ Modern responsive portfolio showcasing projects, skills, certifications and cont
 <div align="center">
 
 <a href="https://github.com/tanurivamsi/MovieMind">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanurivamsi&repo=MovieMind&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanurivamsi&repo=MovieMind-Analytics&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/tanurivamsi/Microplastic-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanurivamsi&repo=Microplastic-Detection&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanurivamsi&repo=MicroplasticDetection_ESP32&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
